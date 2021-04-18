@@ -1,5 +1,16 @@
 Hello there general Kenobi
 
+GIT COMMANDS:
 mkdir - tworzenie folderu
 touch - tworzenie file
 git init - inicjalizacja gita
+git status - status gita
+git add <filename> - dodanie file do gita
+git commit -m "Co sie zmieniło w pliku"
+git log - zobacz commity
+git checkout - powrót do wczesniejszej wersji pliku
+git diff - różnice między plikami ostatnio zapisanymi a aktualnymi
+
+GITHUB:
+git remote add origin <link>
+git push -u origin master
